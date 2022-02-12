@@ -1,0 +1,23 @@
+.calculatorDisplay {
+  background-color: rgb(239, 239, 239);
+  height: 150px;
+  word-wrap: break-word;
+  word-break: break-all;
+}
+
+#calculatorBody {
+  background-color: rgba(60, 12, 104, 0.336);
+}
+
+.resultView {
+  margin-right: auto;
+}
+
+.button {
+  background-color: rgb(239, 239, 239);
+  text-align: center;
+}
+
+#previousDisplay {
+  height: 44px;
+}
